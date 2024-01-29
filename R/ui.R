@@ -469,7 +469,7 @@ main_ui <- function(request) {
                       column(1),
                       column(
                         10,
-                        helpText("This section allows you to generate and download the geospatial ressources required to conduct your survey with Survey Solutions. If you already have a survey solutions server, please provide your API user credentials in the Admin section, so the files can be transferred directly.")
+                        helpText("This section allows you to generate and download the geospatial resources required to conduct your survey with Survey Solutions. If you already have a Survey Solutions server, please provide your API user credentials in the Admin section, so the files can be transferred directly.")
                       ),
                       column(1)
                     ),
